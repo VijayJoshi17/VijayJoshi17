@@ -2,7 +2,6 @@
 <h3 align="center">Pre-Final B.Tech CSE student at Nirma University. I am passionate about Data Science and AI/ML.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijayjoshi17" alt="vijayjoshi17" /></a> </p>
 
 - 🔭 I’m currently working on [Deepfake Video/Image Detection](https://github.com/VijayJoshi17/Deepfake_Detection)
 
