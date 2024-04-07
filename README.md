@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Federated learning, Blockchain, NLP**
 
-- 👨‍💻 All of my projects are available at [datascienceportfol.io/VijayJoshi](https://github.com/VijayJoshi17)
+- 👨‍💻 All of my projects are available at [my github profile](https://github.com/VijayJoshi17)
 
 - 📝 I regularly write articles on [https://medium.com/@joshivijay2004](https://medium.com/@joshivijay2004)
 
