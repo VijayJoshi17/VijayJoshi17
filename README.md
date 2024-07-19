@@ -3,8 +3,6 @@
 
 
 
-- 🔭 I’m currently working on [Deepfake Video/Image Detection](https://github.com/VijayJoshi17/Deepfake_Detection)
-
 - 🌱 I’m currently learning **Federated learning, Blockchain, NLP**
 
 - 👨‍💻 All of my projects are available at [my github profile](https://github.com/VijayJoshi17)
