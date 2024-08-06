@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [my github profile](https://github.com/VijayJoshi17)
 
-- 📝 I regularly write articles on [https://medium.com/@joshivijay2004](https://medium.com/@joshivijay2004)
-
 - 📫 How to reach me **joshivijay2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
