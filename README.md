@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vijay Joshi</h1>
-<h3 align="center">Pre-Final B.Tech CSE student at Nirma University. I am passionate about Data Science and AI/ML.</h3>
+<h3 align="center">Final year B.Tech CSE student at Nirma University. I am passionate about Data Science and AI/ML.</h3>
 
 
 
