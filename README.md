@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **GenAI**
 
 - 👨‍💻 All of my projects are available at [my github profile](https://github.com/VijayJoshi17)
 
