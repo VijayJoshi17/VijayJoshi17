@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **GenAI**
 
-- 👨‍💻 All of my projects are available at [my github profile](https://github.com/VijayJoshi17)
+- 👨‍💻 Checkout my [Portfolio](https://vijayjoshi17.github.io/portfolio/)
 
 - 📫 How to reach me **joshivijay2004@gmail.com**
 
