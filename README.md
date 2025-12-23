@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **GenAI**
+- 🌱 I’m currently learning **Agetic RAG**
 
 - 👨‍💻 Checkout my [Portfolio](https://vijayjoshi17.github.io/portfolio/)
 
