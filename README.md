@@ -1,24 +1,26 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
-###
 
-<h2 align="left">Hi 👋! I am Vijay joshi</h2>
+<h1 align="center">Hi 👋, I'm Vijay Joshi</h1>
+<h3 align="center">AI Enginneer.</h3>
 
-###
 
-<h4 align="left">I am an AI Engineer by profession, specializing in developing AI systems and solutions.</h4>
-<h4 align="left">Checkout my [Portfolio](https://vijayjoshi17.github.io/portfolio/)
 
-###
+- 🌱 I’m currently learning **Agetic RAG**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VijayJoshi17&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VijayJoshi17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+- 👨‍💻 Checkout my [Portfolio](https://vijayjoshi17.github.io/portfolio/)
 
-###
+- 📫 How to reach me **joshivijay2004@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/vijay-joshi-4b5474244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijay-joshi-4b5474244" height="30" width="40" /></a>
+<a href="https://kaggle.com/vijayjoshi17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vijayjoshi17" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/VijayJoshi17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="VijayJoshi17" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
@@ -71,29 +73,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijayjoshi17&show_icons=true&locale=en&layout=compact" alt="vijayjoshi17" /></p>
 
-<div align="left">
-  <a href="joshivijay2004@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://in.linkedin.com/in/vijay-joshi-4b5474244" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="47" height="35" alt="medium logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemczMmVyMGpnNXNjdzFmb2doeXk3a3hyb2ZlaHBhb3A5dGg3dzRreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif"  />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VijayJoshi17/VijayJoshi17/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VijayJoshi17/VijayJoshi17/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VijayJoshi17/VijayJoshi17/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijayjoshi17&show_icons=true&locale=en" alt="vijayjoshi17" /></p>
