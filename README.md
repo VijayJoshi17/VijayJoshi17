@@ -17,13 +17,17 @@ Before that I did industrial **computer vision** at Kevision Systems. B.Tech in 
 
 ### 💼 What I've shipped
 
-**AI Engineer · AIVantage** <sub>Sep 2025 – present</sub>
+#### AI Engineer · AIVantage
+<img src="https://img.shields.io/badge/Sep_2025_–_Present-000?style=flat-square&logo=googlecalendar&logoColor=00d4ff" alt="Sep 2025 – Present" /> <img src="https://img.shields.io/badge/Ahmedabad,_India-000?style=flat-square&logo=googlemaps&logoColor=00d4ff" alt="Ahmedabad, India" />
+
 - 💬 **Enterprise RAG chat** over structured financial data: natural-language questions answered from PostgreSQL by LLMs
 - 🕸️ **Multi-agent workflows in LangGraph**: fan-out across **10 parallel model calls**, with model routing and response evaluation
 - 🩺 **Clinical case review AI**: reads **1,000+ page** medical records with OCR, multilingual translation and LLM analysis
 - ⚙️ **4+ enterprise automations** on FastAPI, Azure Functions, Microsoft Fabric, Graph API and SharePoint
 
-**Software Engineer · Kevision Systems** <sub>Jan 2025 – Aug 2025</sub>
+#### Software Engineer · Kevision Systems
+<img src="https://img.shields.io/badge/Jan_2025_–_Aug_2025-000?style=flat-square&logo=googlecalendar&logoColor=00d4ff" alt="Jan 2025 – Aug 2025" /> <img src="https://img.shields.io/badge/Ahmedabad,_India-000?style=flat-square&logo=googlemaps&logoColor=00d4ff" alt="Ahmedabad, India" />
+
 - 🏭 Industrial object detection and segmentation at **92%+ accuracy**
 - ⚡ Image pipelines **45% faster**, latency **under 10 ms**; ORB/SIFT/SURF matching lifted pattern recognition **35%**
 
