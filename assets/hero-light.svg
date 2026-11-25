@@ -20,23 +20,23 @@
 </g>
 <g clip-path="url(#c1)" font-size="22">
 <text x="48" y="146" fill="#8250df" font-weight="700">></text>
-<text x="72" y="146" fill="#1f2328" font-weight="800">Vijay Joshi<tspan fill="#656d76" font-weight="400" font-size="17">  —  </tspan><tspan fill="#0969da" font-weight="700" font-size="19">AI Engineer</tspan></text>
+<text x="72" y="146" fill="#1f2328" font-weight="800">Vijay Joshi<tspan fill="#656d76" font-weight="400" font-size="17">  —  </tspan><tspan fill="#0969da" font-weight="700" font-size="19">AI Engineer @ AIVantage</tspan></text>
 </g>
 <g clip-path="url(#c2)" font-size="17">
 <text x="48" y="184" fill="#1a7f37" font-weight="700">$</text>
-<text x="72" y="184" fill="#1f2328">cat focus.txt</text>
+<text x="72" y="184" fill="#1f2328">cat stack.txt</text>
 </g>
 <g clip-path="url(#c3)" font-size="17">
 <text x="48" y="222" fill="#8250df" font-weight="700">></text>
-<text x="72" y="222" fill="#0969da">Agentic RAG · Multi-agent systems · LLM apps</text>
+<text x="72" y="222" fill="#0969da">LangGraph · Agentic RAG · Multi-agent · Azure</text>
 </g>
 <g clip-path="url(#c4)" font-size="17">
 <text x="48" y="260" fill="#1a7f37" font-weight="700">$</text>
-<text x="72" y="260" fill="#1f2328">./ship --to production</text>
+<text x="72" y="260" fill="#1f2328">./ship --to enterprise</text>
 </g>
 <g clip-path="url(#c5)" font-size="17">
 <text x="48" y="298" fill="#8250df" font-weight="700">></text>
-<text x="72" y="298" fill="#1a7f37">✔ idea → model → API → users</text>
+<text x="72" y="298" fill="#1a7f37">✔ 10 parallel LLM calls, routed and evaluated</text>
 </g>
 <rect x="48" y="320" width="10" height="20" fill="#0969da" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.5;0.51" dur="1s" begin="5.8s" repeatCount="indefinite"/></rect>
 <line x1="640" y1="100.0" x2="735" y2="84.0" stroke="#d0d7de" stroke-width="1"/>
