@@ -63,12 +63,12 @@ Before that I did industrial **computer vision** at Kevision Systems. B.Tech in 
   <img src="https://skillicons.dev/icons?i=python,cpp,bash,pytorch,tensorflow,sklearn,opencv,fastapi,docker,azure,postgres,mysql,mongodb,git,github&perline=15" alt="Python, C++, Bash, PyTorch, TensorFlow, scikit-learn, OpenCV, FastAPI, Docker, Azure, PostgreSQL, MySQL, MongoDB, Git, GitHub" />
 </p>
 
-### 📈 Activity
+### 🕸️ How my agents think
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VijayJoshi17/VijayJoshi17/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VijayJoshi17/VijayJoshi17/output/snake.svg" />
-  <img width="100%" alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/VijayJoshi17/VijayJoshi17/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/pipeline-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/pipeline-light.svg" />
+  <img width="100%" alt="Animated multi-agent RAG pipeline: query, router, BM25 and vector retrieval, cross-encoder reranker, LLM, verifier, grounded answer" src="assets/pipeline-dark.svg" />
 </picture>
 
 <p align="center"><sub>Open to conversations about GenAI, agents and RAG — <a href="mailto:joshivijay2004@gmail.com">say hi</a>.</sub></p>
