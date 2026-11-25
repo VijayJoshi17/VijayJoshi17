@@ -7,8 +7,6 @@
 <p align="center">
   <a href="https://vijayjoshi17.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=00d4ff" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/vijay-joshi-4b5474244"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00d4ff" alt="LinkedIn" /></a>
-  <a href="https://kaggle.com/vijayjoshi17"><img src="https://img.shields.io/badge/Kaggle_2×_Expert-000?style=for-the-badge&logo=kaggle&logoColor=00d4ff" alt="Kaggle 2× Expert" /></a>
-  <a href="https://leetcode.com/VijayJoshi17"><img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=00d4ff" alt="LeetCode" /></a>
   <a href="mailto:joshivijay2004@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email" /></a>
 </p>
 
